@@ -50,6 +50,10 @@
 不能进行妇科检查及阴式B超检查
 体检后务必将导诊单交至前台
 
+# 工作人员微信xiaojing138316
+
+![image](https://yj-zhu.github.io/medical-examination/infoflow_2020-6-29_20-52-57.png)
+
 # 已开通城市/省份
 
 A 安徽
@@ -83,3 +87,5 @@ X 西藏
 新疆
 Y 云南
 Z 浙江
+
+
