@@ -51,11 +51,11 @@
 
 # 工作人员微信
 
-<p align="center">xiaojing138316</p>
+xiaojing138316
 
 ![image](https://yj-zhu.github.io/medical-examination/infoflow_2020-6-29_20-52-57.png)
 
-<p align="center">备注：体检</p>
+备注：体检   备注：体检   备注：体检
 
 # 已开通城市/省份
 
