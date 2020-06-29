@@ -1,9 +1,5 @@
 # ¥59.9孝心父母体检套餐
 
-# 一
-
-套餐内容介绍
-
 ![image](https://yj-zhu.github.io/medical-examination/image/infoflow_2020-6-29_19-47-9.png)
 
 ![image](https://yj-zhu.github.io/medical-examination/image/infoflow_2020-6-29_19-47-25.png)
@@ -14,9 +10,7 @@
 
 ![image](https://yj-zhu.github.io/medical-examination/image/infoflow_2020-6-29_19-49-41.png)
 
-# 二
-
-流程
+# 流程
 
 1、预约
 
@@ -39,9 +33,7 @@
 体检后，如需要纸质报告，请联系工作人员进行确认，核实信息后，可以发送电子报告到您的邮箱，或黑白打印后，寄送给您。
 
 
-# 三
-
-注意事项
+# 注意事项
 
 1、体检当日携带身份证前往体检中心，前台报姓名即可体检，套餐仅限45周岁及以上用户使用
 
