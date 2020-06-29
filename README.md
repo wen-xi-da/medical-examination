@@ -1,8 +1,4 @@
-# medical-examination
-
-# 关爱父母孝心体检套餐，适用人群：中老年、高血压，45岁+
-
-# 本套餐价=机构官方价/2
+# 套餐内容介绍
 
 ![image](https://yj-zhu.github.io/medical-examination/image/infoflow_2020-6-29_19-47-9.png)
 
