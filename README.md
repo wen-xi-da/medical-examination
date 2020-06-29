@@ -51,11 +51,9 @@
 
 # 工作人员微信
 
-xiaojing138316
+# xiaojing138316 备注：体检
 
 ![image](https://yj-zhu.github.io/medical-examination/infoflow_2020-6-29_20-52-57.png)
-
-备注：体检   备注：体检   备注：体检
 
 # 已开通城市/省份
 
