@@ -55,8 +55,6 @@ yr_Jan13
 
 备注：体检
 
-![image](https://yj-zhu.github.io/medical-examination/infoflow_2020-6-29_20-52-57.png)
-
 # 已开通城市/省份
 
 A 安徽
